@@ -21,7 +21,7 @@ A lightweight Python tool to extract bounding box coordinates (x1, y1, x2, y2) f
 
 ```bash
 pip install Pillow
-使用方法 (Usage)
+##    使用方法 (Usage)
 python sc.py
 
 在弹出的文件对话框中选择一张图片（截图）。
